@@ -1,4 +1,8 @@
 ### Strogonoff de Frango :chicken:
+  
+<center>
+<img align="right" width="500" src="https://cdn.pixabay.com/photo/2016/05/22/01/46/food-1407839_960_720.jpg">
+</center>
 
 - 03 peitos de frangos. 
 - 01 lata de creme de leite sem soro. 
@@ -30,6 +34,4 @@
 
 - Sirva no prato com arroz branco, batata palha e uma coquinha gelada com uma rodela de limão. 
 
-  
 
-![Fotos grátis de Comida](https://cdn.pixabay.com/photo/2016/05/22/01/46/food-1407839_960_720.jpg)
