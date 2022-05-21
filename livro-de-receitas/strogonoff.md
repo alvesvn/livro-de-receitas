@@ -32,6 +32,6 @@
 
 - Deixe cozinhar por 05 minutos e apague o fogo. 
 
-- Sirva no prato com arroz branco, batata palha e uma coquinha gelada com uma rodela de limão. 
+- Sirva o prato com arroz branco, batata palha e uma coquinha gelada com uma rodela de limão. 
 
 
