@@ -10,8 +10,10 @@ Projeto criado para aprender e dominar o github disponibilizando algumas receita
 
 ### Receitas disponíveis:
 
-- Strogonoff de Frango. 🐔
+- Strogonoff de Frango 🐔
 
-- Pudim. 🍮
+- Pudim 🍮
+
 - Bolo de Cenoura 🍰
+
 - Torta de Frango 🥮
